@@ -1,2 +1,2 @@
 # github-demo
-A simple depmo repository to show the basic git workflow
+A simple depo repository to show the basic git workflow
